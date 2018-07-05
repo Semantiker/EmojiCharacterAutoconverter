@@ -1,1 +1,1 @@
-# NativEmojiCharacterAutoconverter
+# UnicodeEmojiCharacterAutoconverter
